@@ -13,6 +13,8 @@ Home Made Paint
 </div>
 
 ## About The Project
+![paintt](https://github.com/user-attachments/assets/027b2690-3e2a-4eb8-ae0b-b512f3ef5403)
+![painty](https://github.com/user-attachments/assets/7f7ef1c3-2e04-478f-83cb-ec27308a39f7)
 
 
 The Map Editor was developed during the 5th week of the Code For All Bootcamp.
